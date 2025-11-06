@@ -1,12 +1,12 @@
 Lab Overview:
-## This lab is about loading datas from the Cities.csv file then put it ## into a table that has a filter and aggregation functions in it then ## use the that table for tasks.
-
+## This lab is about loading datas from the Cities.csv file then put it into a table that has a filter and aggregation functions in it then ## use the that table for tasks.
+```bash
 oop_lab_1/
 │
 ├── README.md             # This file
 ├── Cities.csv            # The dataset
 |── data_processing.py	  # The analysis code
-
+```
 # Design Overview:
 ##     DataLoader class:
 ###          __init__ function:
